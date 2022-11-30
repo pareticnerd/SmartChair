@@ -1,0 +1,16 @@
+# Notes for battery housing design
+
+dimms
+
+	inner
+		l 180.8 w 71.31 h 102.1
+	
+	outer
+		l 185.8
+	
+	attach-point
+		
+		radius
+			20mm
+		height
+			35mm
